@@ -17,13 +17,6 @@ Me chamo Johnathan Teles da Silveira, tenho 22 anos e sou natural de Goiás. Con
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0056A3)](https://www.linkedin.com/in/johnathanteles/"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
