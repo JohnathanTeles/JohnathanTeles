@@ -5,10 +5,11 @@
 Me chamo Johnathan Teles da Silveira, tenho 22 anos e sou natural de Goiás. Concluí o ensino médio no IFG, onde fiz um curso técnico em mineração. Atualmente, curso Engenharia de Software na Unigoiás. Minha paixão por tecnologia começou em 2021, quando iniciei minha graduação. Desde então, venho me dedicando a projetos pessoais para aprimorar minhas habilidades em programação.
 
 <p align="left">
+            <a href="https://johnathanteles.github.io/MeuPortfolio/">
         <img 
             alt="Meu-portfólio" 
             title="Acesse Meu portfólio" 
-            src="https://custom-icon-badges.demolab.com/badge/Portf%C3%B3lio-0078D4?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0056A3)](https://johnathanteles.github.io/MeuPortfolio/"</a> 
+            src="https://custom-icon-badges.demolab.com/badge/Portf%C3%B3lio-0078D4?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0056A3)]</a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
