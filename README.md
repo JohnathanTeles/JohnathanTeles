@@ -4,9 +4,9 @@
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="![image](https://github.com/user-attachments/assets/0a8a85fc-ea78-4c79-8c9a-b0043e0d3ecf)
-" 
-/>Johnathan Teles
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+Johnathan Teles
 
 **`Desenvolvedor`**
 
