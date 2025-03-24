@@ -10,7 +10,7 @@ Me chamo Johnathan Teles da Silveira, tenho 22 anos e sou natural de Goiás. Con
             alt="Meu-portfólio" 
             title="Acesse Meu portfólio" 
             src="https://custom-icon-badges.demolab.com/badge/Portf%C3%B3lio-0078D4?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0056A3)](https://johnathanteles.github.io/MeuPortfolio/"</a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://www.linkedin.com/in/johnathanteles?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">
         <img 
             alt="linkedIn" 
             title="Acesse meu linkedIn" 
