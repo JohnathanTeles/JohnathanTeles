@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=chartreuse-dark_icons=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
