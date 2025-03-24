@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Johnathan Teles
+# 👨🏼‍💻 Johnathan Teles
 
 **`Desenvolvedor`**
 
