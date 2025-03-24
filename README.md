@@ -1,5 +1,6 @@
  <img 
     align="left" 
+    display: flex;
     alt="HTML"
     title="HTML" 
     width="30px" 
