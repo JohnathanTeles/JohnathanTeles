@@ -9,14 +9,7 @@ Me chamo Johnathan Teles da Silveira, tenho 22 anos e sou natural de Goiás. Con
         <img 
             alt="Meu-portfólio" 
             title="Acesse Meu portfólio" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Acesse meu portfólio&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630](https://custom-icon-badges.demolab.com/badge/Portf%C3%B3lio-0078D4?logo=portfolio&logoColor=white)](https://johnathanteles.github.io/MeuPortfolio/)"
-        />
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Acesse meu portfólio&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630](https://custom-icon-badges.demolab.com/badge/Portf%C3%B3lio-0078D4?logo=portfolio&logoColor=white)](https://johnathanteles.github.io/MeuPortfolio/)"</a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
