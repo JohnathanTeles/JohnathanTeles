@@ -1,8 +1,8 @@
-# 👨🏻‍💻Johnathan Teles 
+# 👨🏻‍💻Johnathan Teles da Silveira
 
 **`Desenvolvedor`**
 
-Me chamo Johnathan Teles da Silveira, tenho 22 anos e sou natural de Goiás. Concluí o ensino médio no IFG, onde fiz um curso técnico em mineração. Atualmente, curso Engenharia de Software na Unigoiás. Minha paixão por tecnologia começou em 2021, quando iniciei minha graduação. Desde então, venho me dedicando a projetos pessoais para aprimorar minhas habilidades em programação.
+Me chamo Johnathan Teles da Silveira, tenho 23 anos e sou natural de Goiás. Concluí o ensino médio no IFG, onde fiz um curso técnico em mineração. Atualmente, curso Engenharia de Software na Unigoiás. Minha paixão por tecnologia começou em 2021, quando iniciei minha graduação. Desde então, venho me dedicando a projetos pessoais para aprimorar minhas habilidades em programação.
 
 <p align="left">
             <a href="https://johnathanteles.github.io/MeuPortfolio/">
