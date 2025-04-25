@@ -41,3 +41,20 @@ Atualmente, desenvolvo projetos acadêmicos e pessoais aplicando tecnologias com
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnathanTeles&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnathanTeles&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=6"/>
 </p>
+
+---
+
+### 🚀 Projetos em Destaque
+
+Aqui estão alguns dos meus projetos mais recentes e relevantes:
+
+1. **Site do Casal https://sitedocasal.free.nf/?i=1**
+   - O site permite que casais criem uma página personalizada com fotos, declaração, música e a data do relacionamento. A página exibe um carrossel de fotos, um cronômetro com o tempo juntos e uma ambientação romântica. Os dados são salvos localmente e o acesso à página é liberado após aprovação manual do pagamento via Pix.
+
+2. **Help Desk http://helpdesk.infinityfreeapp.com/**
+   - O sistema tem como objetivo permitir que os usuários registrem chamados referentes a problemas técnicos, como falhas de hardware ou software. Cada chamado é visível apenas para o usuário que o criou, com exceção do administrador, que possui acesso a todos os chamados.
+
+---
+
+Fique à vontade para explorar os projetos e entrar em contato se tiver interesse em colaborar ou discutir oportunidades!
+
